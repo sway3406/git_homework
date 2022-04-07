@@ -7,3 +7,5 @@ Two New Strategies for Mod 0
 
 1) Use the Notes App to manage new material
 2) Set up Study Room invites with my peers to work on homework
+
+Shoutout - Thanks to Dinne, Morgan, Chantel & Anna for their help in Zoom & over Slack
