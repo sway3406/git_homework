@@ -12,5 +12,5 @@ Shoutout - Thanks to Dinne, Morgan, Chantel & Anna for their help in Zoom & over
 
 A Few New Thoughts
 
-1) Git & Github are super useful. I need to understand them super well
-2) You can clone repo's that you are collaborating on
+1) Git & Github are super useful. I need to understand them super well.
+2) You can clone repo's that you are collaborating on.
