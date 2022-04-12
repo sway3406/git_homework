@@ -9,3 +9,8 @@ Two New Strategies for Mod 0
 2) Set up Study Room invites with my peers to work on homework
 
 Shoutout - Thanks to Dinne, Morgan, Chantel & Anna for their help in Zoom & over Slack
+
+A Few New Thoughts
+
+1) Git & Github are super useful. I need to understand them super well
+2) You can clone repo's that you are collaborating on
